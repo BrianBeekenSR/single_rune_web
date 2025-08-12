@@ -1,0 +1,4 @@
+C:\Users\brian\source\repos\single_rune_web\single_rune_web\obj\Debug\net9.0\single_rune_web.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\single_rune_web\single_rune_web\obj\Debug\net9.0\single_rune_web.Shared.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\single_rune_web\single_rune_web\obj\Debug\net9.0\single_rune_web.Shared.AssemblyInfo.cs
+C:\Users\brian\source\repos\single_rune_web\single_rune_web\obj\Debug\net9.0\single_rune_web.Shared.csproj.CoreCompileInputs.cache
