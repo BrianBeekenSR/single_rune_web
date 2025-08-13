@@ -1,2 +1,0 @@
-C:\Users\brian\source\repos\single_rune_web\single_rune_web.Client\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\brian\source\repos\single_rune_web\single_rune_web.Client\obj\Debug\net9.0\staticwebassets.build.json
